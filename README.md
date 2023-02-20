@@ -2,4 +2,4 @@
 minimal example for LAPLACE dashboard
 
 
-Schaun wir mal was kommt
+Schaun wir mal was kommt ...
